@@ -88,4 +88,4 @@ error      : เกิดข้อผิดพลาด
 
 ผู้พัฒนา
 --------
-Whisper Web Transcriber Project
+godgameinwza
