@@ -1,5 +1,3 @@
-# whisper-web-transcriber
-
 Whisper Web Transcriber
 ======================
 
